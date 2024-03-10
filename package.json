@@ -1,0 +1,26 @@
+{
+  "name": "av_promt",
+  "version": "1.0.0",
+  "description": "Simply functionality calculating average oss  CA beta",
+  "main": "average.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+    "av_promt": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SchaapNimox98/av_promt.git"
+  },
+  "homepage": "https://twitter.com/MaryMichel18051",
+  "keywords": [
+    "average",
+    "calculate",
+    "math"
+  ],
+  "author": "SchaapNimox98",
+  "license": "MIT"
+}
